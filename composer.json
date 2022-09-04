@@ -1,6 +1,6 @@
 {
-    "name": "ckfinder/ckfinder-laravel-package",
-    "description": "CKFinder 3 package for Laravel",
+    "name": "ckfinder/ckfinder-laravel-test",
+    "description": "",
     "type": "library",
     "license": "MIT",
     "require": {
